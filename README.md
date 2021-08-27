@@ -29,6 +29,15 @@ Calculator for learning SAP UI5 basics.
 
 #### Pre-requisites:
 
-1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
+Download and install the items below:
+1. [vscode](https://code.visualstudio.com/download)
+2. [nodejs](https://nodejs.org/en/download/)
 
+#### Vscode extensions:
+
+Install following vscode extenions:
+1. [SAP Fiori tools - Application Modeler](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-application-modeler-extension)
+2. [SAP Fiori tools - Guided Development](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-help-extension)
+3. [SAP Fiori tools - Service Modeler](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-service-modeler-extension)
+4. [SAP Fiori tools - Extension Pack](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-fiori-tools-extension-pack)
 
