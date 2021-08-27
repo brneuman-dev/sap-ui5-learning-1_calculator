@@ -41,3 +41,6 @@ Install following vscode extensions:
 3. [SAP Fiori tools - Service Modeler](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-service-modeler-extension)
 4. [SAP Fiori tools - Extension Pack](https://marketplace.visualstudio.com/items?itemName=SAPSE.sap-ux-fiori-tools-extension-pack)
 
+#### Useful links:
+
+* [SAP UI5 Samples](https://sapui5.hana.ondemand.com/#/controls)
